@@ -1,3 +1,19 @@
+# HZC
+
+Praticar grid e responsividade
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **HZC**
+| :label: Tecnologias | html, css
+| :rocket: URL         | https://pamelaoli.github.io/HZC-Grid/
+
+![Captura de tela_20221107_115300](https://user-images.githubusercontent.com/83367800/200340574-53b8f2eb-f440-4475-bb70-6993c2716e87.png#vitrinedev)
+
+## Detalhes do projeto!
+
+Projeto desenvolvido do 0, utilizando html, css e grid para a posição dos elementos.
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
